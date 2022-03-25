@@ -30,3 +30,12 @@ Test the final model’s generalization performance on test data from the data s
 Test the final model’s generalization performance on test data, not from the original test to training data split. This will be done in one of two methods. In the first method, we find data from a different urban area (i.e., New York City or Seattle) that contains the same predictors and outcome. We aim to prepare the data from the different city such that new predictions can be made on this data. The consequent predictions can then be assessed on the same performance quantities such as RMSE and MSE. These metrics will yield generalization metrics of the model.      
 The second method is to use unseen “OpenDataPhilly“ data. This dataset is refreshed daily on the “OpenDataPhilly“ website and new properties are added daily. After training various models from one time point, we can find new properties that have been added at a later time point. We can then test how our model (trained on data from one point in time) performs on future data points (new homes added to the dataset). The performance of the model on new data will be assessed in the same fashion as previously stated. Predictions are assessed on RMSE and MSE.    
 Time permitting, we will try predicting the property type (a categorical feature that has outcomes: Single Family Home, Multi-Family Home, Vacant Land, Mixed Use Property, Industrial Property, or Commercial Property). We will also make predictions on newly released data in Philadelphia or data from a new city if comparable data can be found. However, we expect that data that includes all of these property types to be scarce. The model on unseen data will be assessed on the multi-class confusion matrix, micro average F1 score, and macro average F1 score metrics.     
+
+### References   
+1. https://www.nar.realtor/newsroom/existing-home-sales-surge-6-7-in-january    
+2. https://www.renofi.com/blog/projecting-the-value-of-homes-in-the-us-in-2030-analyzing-the-impact-of-covid-19/   
+3. https://www.zillow.com/research/housing-permits-shortfall-2021-30373/   
+4. https://www.prnewswire.com/news-releases/home-prices-in-cities-rise-16-surpassing-suburban-and-rural-price-growth-for-the-first-time-since-before-pandemic-301240469.html   
+5. https://www.statista.com/statistics/269967/urbanization-in-the-united-states/   
+6. https://www.opendataphilly.org/dataset/opa-property-assessments   
+7. https://metadata.phila.gov/#home/datasetdetails/5543865f20583086178c4ee5/representationdetails/55d624fdad35c7e854cb21a4/?view_287_page=1   
