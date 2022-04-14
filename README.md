@@ -22,3 +22,14 @@ The project is visualized with the below flowchart:
 
 
 Code for each respective part of the flowchart can be found in the following directories in our GitHub page:   
+
+### Processing:    
+
+https://github.com/delashu/Philadelphia-Housing/tree/main/processing
+
+### Exploratory Analyses & Viz:   
+https://github.com/delashu/Philadelphia-Housing/tree/main/EDA
+
+### Modeling: 
+
+https://github.com/delashu/Philadelphia-Housing/tree/main/model
