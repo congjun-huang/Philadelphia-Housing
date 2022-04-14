@@ -13,3 +13,6 @@ model as defined by RMSE. Across all property types, XGBoost and Random Forest m
 superior performance. Future home buyers in Philadelphia may find our model useful in predicting sales 
 prices of homes. Government and businesses should use the Commercial, Industrial, Mixed-Use and Vacant 
 Land models with caution due to their poorer generalizability.
+
+The project is visualized with the below flowchart:      
+![image](https://user-images.githubusercontent.com/53063128/163472517-5cb10293-d1dd-4380-9366-a234b3097f6c.png)   
