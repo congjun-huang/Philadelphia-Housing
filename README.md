@@ -3,7 +3,7 @@
 **Project Title**: Philadelphia Housing and Property Value Investigation  
 Team Members: Shusaku Asai, Congjun Huang, Jingjing Wang   
 
-### Project Description     
+#### Project Description     
 Many machine learning applications model home sales price. We extended this work by applying various 
 sales price models to Single-Family, Multi-Family, Mixed-Use, Industrial, Commercial, and Vacant Land
 property types in Philadelphia. Within each property type, we built and tuned a best performing model and 
@@ -14,7 +14,9 @@ superior performance. Future home buyers in Philadelphia may find our model usef
 prices of homes. Government and businesses should use the Commercial, Industrial, Mixed-Use and Vacant 
 Land models with caution due to their poorer generalizability.
 
-The project is visualized with the below flowchart:       
+
+<ins>The project is visualized with the below flowchart:</ins> 
+  
      
      
      
