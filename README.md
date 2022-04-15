@@ -24,13 +24,13 @@ Land models with caution due to their poorer generalizability.
 
 
 Code for each respective part of the flowchart can be found in the following directories in our GitHub page:   
+### Exploratory Analyses & Viz:   
+
+https://github.com/delashu/Philadelphia-Housing/tree/main/EDA
 
 ### Processing:    
 
 https://github.com/delashu/Philadelphia-Housing/tree/main/processing
-
-### Exploratory Analyses & Viz:   
-https://github.com/delashu/Philadelphia-Housing/tree/main/EDA
 
 ### Modeling: 
 
