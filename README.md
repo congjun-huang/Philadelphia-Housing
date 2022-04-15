@@ -35,3 +35,6 @@ https://github.com/delashu/Philadelphia-Housing/tree/main/EDA
 ### Modeling: 
 
 https://github.com/delashu/Philadelphia-Housing/tree/main/model
+
+### Video:
+https://www.youtube.com/watch?v=Zv0nwZJKiHA
