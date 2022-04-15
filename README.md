@@ -62,20 +62,23 @@ https://opendata-downloads.s3.amazonaws.com/opa_properties_public.csv
 ##### Data Dictionary:
 https://metadata.phila.gov/#home/datasetdetails/5543865f20583086178c4ee5/representationdetails/55d624fdad35c7e854cb21a4/?view_287_page=1
 
-#### Step 5:
+#### Step 5: Run the code
+All the experiment results can be accessed through the following 3 parts of code.
 ##### Exploratory Data Analysis & Visualization:   
 
 https://github.com/delashu/Philadelphia-Housing/tree/main/EDA
 
-#### Processing:    
+##### Processing:    
 
 https://github.com/delashu/Philadelphia-Housing/tree/main/processing
 
-#### Modeling: 
+##### Modeling: 
 
 https://github.com/delashu/Philadelphia-Housing/tree/main/model
 
-#### Video:
+#### Step 6: Check the video
+##### Video:
+
 https://www.youtube.com/watch?v=Zv0nwZJKiHA
 
 
