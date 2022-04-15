@@ -1,6 +1,6 @@
 # Philadelphia-Housing
 
-**Project Title**: Philadelphia Housing and Property Value Investigation  
+### Project Title: Investigation of Property Sale Prices Using Machine Learning in Philadelphia 
 Team Members: Shusaku Asai, Congjun Huang, Jingjing Wang   
 
 ### Project Description     
@@ -32,16 +32,16 @@ https://metadata.phila.gov/#home/datasetdetails/5543865f20583086178c4ee5/represe
      
 ![image](https://user-images.githubusercontent.com/53063128/163472517-5cb10293-d1dd-4380-9366-a234b3097f6c.png)   
 
-### Conclusion
+### Conclusions
 The Single-Family property type model had the smallest test RMSE and thus had best generalizability for 
 future predictions. Commercial property type model had the largest test RMSE, and thus had the worst 
 generalizability. The XGBoost and Random Forest models were superior in both validations set and 
-generalizability.
+generalizability.\
 Our Single-Family and Multi-Family models show utility that future home buyers in Philadelphia may find 
 useful. By training a model with all available data, a user may input a desired home’s amenities and location 
 to predict the sale price. Government organizations and private companies in Philadelphia may find our 
 model for Mixed, Vacant, Commercial, and Industrial useful, but we recommend this be done with caution 
-due to the larger test RMSE and poorer generalizability.
+due to the larger test RMSE and poorer generalizability.\
 The poor generalizability of the Commercial and Industrial property types may be a result of the underlying 
 variability of price and smaller data availability. The superior performance of the Single-Family type in 
 contrast may be due to a larger and more robust sample size and tighter distribution in sale price. Future 
@@ -50,7 +50,7 @@ feature space or attempt to aggregate datapoints from several cities to increase
 
 ### User Instructions
 #### Step 1: Clone the GitHub repository
-Code for each respective part of the flowchart can be found in the following directories in our GitHub page:   
+   
 
 #### Step 2: Create a virtual environment for the project 
 
