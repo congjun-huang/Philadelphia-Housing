@@ -1,6 +1,6 @@
 # Philadelphia-Housing
 
-### Project Title: Investigation of Property Sale Prices Using Machine Learning in Philadelphia 
+### Investigation of Property Sale Prices Using Machine Learning in Philadelphia 
 Team Members: Shusaku Asai, Congjun Huang, Jingjing Wang   
 
 ### Project Description     
@@ -50,12 +50,12 @@ feature space or attempt to aggregate datapoints from several cities to increase
 
 ### User Instructions
 #### Step 1: Clone the GitHub repository
-   
+`https://github.com/delashu/Philadelphia-Housing.git`   
 
 #### Step 2: Create a virtual environment for the project 
 
 #### Step 3: Install necessary packages
-
+`pip install -r requirements.txt`
 #### Step 4: Get data
 ##### Data Source:
 https://opendata-downloads.s3.amazonaws.com/opa_properties_public.csv
