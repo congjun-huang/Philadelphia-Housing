@@ -3,7 +3,7 @@
 ### Investigation of Property Sale Prices Using Machine Learning in Philadelphia 
 Team Members: Shusaku Asai, Congjun Huang, Jingjing Wang   
 
-### Project Description     
+## Project Description     
 Many machine learning applications model home sales price. We extended this work by applying various 
 sales price models to Single-Family, Multi-Family, Mixed-Use, Industrial, Commercial, and Vacant Land
 property types in Philadelphia. Within each property type, we built and tuned a best performing model and 
@@ -14,7 +14,7 @@ superior performance. Future home buyers in Philadelphia may find our model usef
 prices of homes. Government and businesses should use the Commercial, Industrial, Mixed-Use and Vacant 
 Land models with caution due to their poorer generalizability.
 
-### Data
+## Data
 We utilized the publicly available Philadelphia Properties and Assessment History dataset. Data source and data dictionary can be found below.
 #### Data Source:
 https://opendata-downloads.s3.amazonaws.com/opa_properties_public.csv
@@ -22,7 +22,7 @@ https://opendata-downloads.s3.amazonaws.com/opa_properties_public.csv
 #### Data Dictionary:
 https://metadata.phila.gov/#home/datasetdetails/5543865f20583086178c4ee5/representationdetails/55d624fdad35c7e854cb21a4/?view_287_page=1
 
-### Experimental Design
+## Experimental Design
 <ins>The project is visualized with the below flowchart:</ins> 
   
      
@@ -30,7 +30,7 @@ https://metadata.phila.gov/#home/datasetdetails/5543865f20583086178c4ee5/represe
      
 ![image](https://user-images.githubusercontent.com/53063128/163472517-5cb10293-d1dd-4380-9366-a234b3097f6c.png)   
 
-### Conclusions
+## Conclusions
 The Single-Family property type model had the smallest test RMSE and thus had best generalizability for 
 future predictions. Commercial property type model had the largest test RMSE, and thus had the worst 
 generalizability. The XGBoost and Random Forest models were superior in both validations set and 
@@ -46,9 +46,9 @@ contrast may be due to a larger and more robust sample size and tighter distribu
 works that aim to predict Commercial and Industrial property types should ensure a generally non-missing 
 feature space or attempt to aggregate datapoints from several cities to increase sample size. 
 
-### User Instructions
+## User Instructions
 #### Step 1: Clone the GitHub repository
-`https://github.com/delashu/Philadelphia-Housing.git`   
+`git clone https://github.com/delashu/Philadelphia-Housing.git`   
 
 #### Step 2: Create a virtual environment for the project 
 
@@ -66,7 +66,7 @@ https://github.com/delashu/Philadelphia-Housing/tree/main/processing
 ##### Modeling: 
 https://github.com/delashu/Philadelphia-Housing/tree/main/model
 
-### Video
+## Video
 https://www.youtube.com/watch?v=Zv0nwZJKiHA
 
 
