@@ -20,7 +20,7 @@ We utilized the publicly available Philadelphia Properties and Assessment Histor
 
 https://opendata-downloads.s3.amazonaws.com/opa_properties_public.csv
 
-#### Data Dictionnary:
+#### Data Dictionary:
 
 https://metadata.phila.gov/#home/datasetdetails/5543865f20583086178c4ee5/representationdetails/55d624fdad35c7e854cb21a4/?view_287_page=1
 
@@ -59,11 +59,11 @@ feature space or attempt to aggregate datapoints from several cities to increase
 #### Step 4: Get data
 ##### Data Source:
 https://opendata-downloads.s3.amazonaws.com/opa_properties_public.csv
-##### Data Dictionnary:
+##### Data Dictionary:
 https://metadata.phila.gov/#home/datasetdetails/5543865f20583086178c4ee5/representationdetails/55d624fdad35c7e854cb21a4/?view_287_page=1
 
 #### Step 5:
-##### Exploratory Analyses & Viz:   
+##### Exploratory Data Analysis & Visualization:   
 
 https://github.com/delashu/Philadelphia-Housing/tree/main/EDA
 
