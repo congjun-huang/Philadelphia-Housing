@@ -14,7 +14,12 @@ superior performance. Future home buyers in Philadelphia may find our model usef
 prices of homes. Government and businesses should use the Commercial, Industrial, Mixed-Use and Vacant 
 Land models with caution due to their poorer generalizability.
 
+#### Data
 
+
+
+
+#### Experimental Design
 <ins>The project is visualized with the below flowchart:</ins> 
   
      
@@ -38,3 +43,6 @@ https://github.com/delashu/Philadelphia-Housing/tree/main/model
 
 ### Video:
 https://www.youtube.com/watch?v=Zv0nwZJKiHA
+
+
+
