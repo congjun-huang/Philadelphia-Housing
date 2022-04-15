@@ -54,7 +54,10 @@ feature space or attempt to aggregate datapoints from several cities to increase
 
 #### Step 3: Install necessary packages
 `pip install -r requirements.txt`
+
 #### Step 4: Get data
+Data can be accessed in the `Data` folder, with name `opa_properties_public.csv`.
+
 #### Step 5: Run the code
 All the experiment results can be accessed through the following 3 parts of code.
 ##### Exploratory Data Analysis & Visualization:   
