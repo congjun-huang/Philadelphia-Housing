@@ -17,7 +17,7 @@ Land models with caution due to their poorer generalizability.
 ## Data
 We utilized the publicly available Philadelphia Properties and Assessment History dataset. Data source and data dictionary can be found below.
 #### Data Source:
-https://opendata-downloads.s3.amazonaws.com/opa_properties_public.csv
+https://www.opendataphilly.org/dataset/opa-property-assessments   
 
 #### Data Dictionary:
 https://metadata.phila.gov/#home/datasetdetails/5543865f20583086178c4ee5/representationdetails/55d624fdad35c7e854cb21a4/?view_287_page=1
@@ -56,8 +56,11 @@ feature space or attempt to aggregate datapoints from several cities to increase
 `pip install -r requirements.txt`
 
 #### Step 4: Get data
-Data can be downloaded using:
-https://opendata-downloads.s3.amazonaws.com/opa_properties_public.cs
+Data is found here:  
+https://www.opendataphilly.org/dataset/opa-property-assessments   
+
+Direct download of data below:
+https://opendata-downloads.s3.amazonaws.com/opa_properties_public.csv
 
 #### Step 5: Run the code
 All the experiment results can be accessed through the following 3 parts of code.
