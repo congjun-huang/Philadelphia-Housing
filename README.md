@@ -56,7 +56,8 @@ feature space or attempt to aggregate datapoints from several cities to increase
 `pip install -r requirements.txt`
 
 #### Step 4: Get data
-Data can be accessed in the `Data` folder, with name `opa_properties_public.csv`.
+Data can be downloaded using:
+https://opendata-downloads.s3.amazonaws.com/opa_properties_public.cs
 
 #### Step 5: Run the code
 All the experiment results can be accessed through the following 3 parts of code.
