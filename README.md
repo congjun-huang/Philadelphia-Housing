@@ -1,4 +1,4 @@
-# Philadelphia-Property-Sale-Prices-Research
+# Investigation of Property Sale Prices Using Machine Learning in Philadelphia 
 
 ### Investigation of Property Sale Prices Using Machine Learning in Philadelphia 
 Team Members: Shusaku Asai, Congjun Huang, Jingjing Wang   
